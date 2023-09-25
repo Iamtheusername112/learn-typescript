@@ -8,6 +8,8 @@ import Arrays from "./Types/Arrays";
 import Tuple from "./Types/Tuple";
 import Any from "./Types/Any";
 import Union from "./Types/Union";
+import TypeAlias from "./Types/TypeAlias";
+import FunctionType from "./Types/FunctionType";
 
 function App() {
   return (
@@ -21,6 +23,8 @@ function App() {
       <Tuple />
       <Any />
       <Union />
+      <TypeAlias />
+      <FunctionType />
     </>
   );
 }
