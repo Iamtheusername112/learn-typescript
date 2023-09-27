@@ -8,7 +8,7 @@ function Object() {
     <div>
       <h2>Object Example</h2>
       <p>
-        {person.name} is {person.age} years.
+        {person.name} is {person.age} years and a full-stack web dveloper.
       </p>
     </div>
   );
